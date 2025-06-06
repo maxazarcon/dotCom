@@ -1,0 +1,5 @@
+node_modules/
+homepage/node_modules/
+homepage/dist/
+dist/
+.env
